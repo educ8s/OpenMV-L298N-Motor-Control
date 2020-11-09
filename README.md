@@ -36,3 +36,7 @@ This is an Automatic RGB565 Color Tracking Example project that comes with the O
 
 # Schematic
 
+<p align="center">
+  <img src="schematic.jpg" alt="OpenMV L298N tutorial" width="1280">
+</p>
+

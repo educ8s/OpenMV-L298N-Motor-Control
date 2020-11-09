@@ -1,6 +1,6 @@
 # OpenMV-L298N-Motor-Control
 
-This is an Automatic RGB565 Color Tracking Example project that comes with the OpenMV cam. It lets you track an object by color. I modified the provided code to support the inexpensive (less than $10) ILI9341 display. Using an OpenMV H7 cam it can track an object and drive the display at 40 fps! Check the video for more details.
+These are two simple examples of motor control using the L298N driver and OpenMV. You can use either the OpenMV M7 or the OpenMV H7 board. Check the video for more details.
 
 <p align="center">
   <img src="demo.jpg" alt="OpenMV L298N tutorial" width="1280">
